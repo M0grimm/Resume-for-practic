@@ -255,6 +255,7 @@ body{
     display: flex;
     flex-direction: row;
     margin-top: 3%;
+    justify-content: space-between;
 }
 
 .names{
@@ -262,7 +263,7 @@ body{
 }
 
 .tools-first-circles{
-    margin-left: 15%;
+    
 }
 
 .words-tools{
@@ -276,5 +277,5 @@ body{
 }
 
 .tools-second-circles{
-    margin-right: 15%;
+    
 }
